@@ -81,8 +81,12 @@ void adaugaMasinaInLista(Nod** lista, Masina masinaNoua) {
 	}
 }
 
-void adaugaLaInceputInLista(Masina masinaNoua) {
+void adaugaLaInceputInLista(struct Nod* head, Masina masinaNoua) {
 	//adauga la inceputul listei o noua masina pe care o primim ca parametru
+	struct Nod* nodNou = (Nod*)malloc(sizeof(struct Nod));
+	nodNou->info = masinaNoua;
+	nodNou->next = head;
+	head = nodNou;
 }
 
 void* citireListaMasiniDinFisier(const char* numeFisier) { // void* = template => returneaza orice
@@ -131,18 +135,53 @@ float calculeazaPretMediu(struct Nod* lista) {
 }
 
 
-void stergeMasiniDinSeria(/*lista masini*/ char serieCautata) {
+void stergeMasiniDinSeria(struct Nod** head, char serieCautata) {
 	//sterge toate masinile din lista care au seria primita ca parametru.
 	//tratati situatia ca masina se afla si pe prima pozitie, si pe ultima pozitie
+	struct Nod* curr = *head;
+	struct Nod* prev = NULL;
+
+	while (curr != NULL) {
+		if (curr->info.serie == serieCautata) {
+			struct Nod* deSters = curr;
+			if (prev == NULL) {
+				*head = curr->next;
+				curr = *head;
+			}
+			else {
+				prev->next = curr->next;
+				curr = curr->next;
+			}
+			free(deSters->info.model);
+			free(deSters->info.numeSofer);
+			free(deSters);
+		}
+		else {
+			prev = curr;
+			curr = curr->next;
+		}
+	}
+
 }
 
-float calculeazaPretulMasinilorUnuiSofer(/*lista masini*/ const char* numeSofer) {
+float calculeazaPretulMasinilorUnuiSofer(struct Nod* head, const char* numeSofer) {
 	//calculeaza pretul tuturor masinilor unui sofer.
-	return 0;
+	float pretMasina = 0.0f;
+	struct Nod* aux= head;
+	while (aux != NULL) {
+		if (strcmp(numeSofer, aux->info.numeSofer) == 0) {
+			pretMasina+= aux->info.pret;
+		}
+		aux = aux->next;
+	}
+
+	return pretMasina;
 }
 
 int main() {
 	Nod* lista = (Nod*)citireListaMasiniDinFisier("/Users/catalin/Documents/Facultate/SDD/Seminar4/masini.txt");
+	// afisareListaMasini(lista);
+	stergeMasiniDinSeria(&lista, 'A');
 	afisareListaMasini(lista);
 	return 0;
 }
