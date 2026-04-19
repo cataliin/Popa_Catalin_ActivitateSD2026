@@ -1,0 +1,4 @@
+﻿  FileName.c
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar7\seminar7\FileName.c(39,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar7\seminar7\FileName.c(212,1): warning C4715: 'getMasinaById': not all control paths return a value
+  seminar7.vcxproj -> D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar7\x64\Debug\seminar7.exe
