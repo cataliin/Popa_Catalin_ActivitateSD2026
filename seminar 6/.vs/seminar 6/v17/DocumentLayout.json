@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\seminar 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BA82F1-93EC-4967-AA54-991B4DD0E64F}|seminar 6\\seminar 6.vcxproj|D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\seminar 6\\seminar 6\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BA82F1-93EC-4967-AA54-991B4DD0E64F}|seminar 6\\seminar 6.vcxproj|solutionrelative:seminar 6\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\seminar 6\\seminar 6\\FileName.c",
+              "RelativeDocumentMoniker": "seminar 6\\FileName.c",
+              "ToolTip": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\seminar 6\\seminar 6\\FileName.c",
+              "RelativeToolTip": "seminar 6\\FileName.c",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-19T12:45:44.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

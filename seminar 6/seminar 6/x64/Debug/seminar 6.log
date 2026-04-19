@@ -1,0 +1,8 @@
+﻿  FileName.c
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar 6\seminar 6\FileName.c(28,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar 6\seminar 6\FileName.c(220,21): warning C4047: 'function': 'NodSimplu *' differs in levels of indirection from 'NodSimplu **'
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar 6\seminar 6\FileName.c(220,21): warning C4024: 'emptyStack': different types for formal and actual parameter 1
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar 6\seminar 6\FileName.c(227,20): warning C4047: 'function': 'NodSimplu *' differs in levels of indirection from 'NodSimplu **'
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar 6\seminar 6\FileName.c(227,20): warning C4024: 'emptyStack': different types for formal and actual parameter 1
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar 6\seminar 6\FileName.c(110,1): warning C4716: 'size': must return a value
+  seminar 6.vcxproj -> D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\seminar 6\x64\Debug\seminar 6.exe
