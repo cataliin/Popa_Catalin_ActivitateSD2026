@@ -1,0 +1,2 @@
+Romania,50,500
+Bulgaria,10,100

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestListaDubla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A65607-29A2-431F-94B9-4A5427F9C1BE}|pregatireTestListaDubla\\pregatireTestListaDubla.vcxproj|D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestListaDubla\\pregatireTestListaDubla\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33A65607-29A2-431F-94B9-4A5427F9C1BE}|pregatireTestListaDubla\\pregatireTestListaDubla.vcxproj|solutionrelative:pregatireTestListaDubla\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestListaDubla\\pregatireTestListaDubla\\FileName.c",
+              "RelativeDocumentMoniker": "pregatireTestListaDubla\\FileName.c",
+              "ToolTip": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestListaDubla\\pregatireTestListaDubla\\FileName.c",
+              "RelativeToolTip": "pregatireTestListaDubla\\FileName.c",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwGwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-21T17:52:21.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

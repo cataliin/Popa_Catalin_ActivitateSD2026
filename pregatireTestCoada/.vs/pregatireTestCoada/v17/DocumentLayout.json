@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestCoada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42FF391B-0A1A-4E30-B82C-19C39FD5EA9E}|pregatireTestCoada\\pregatireTestCoada.vcxproj|D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestCoada\\pregatireTestCoada\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42FF391B-0A1A-4E30-B82C-19C39FD5EA9E}|pregatireTestCoada\\pregatireTestCoada.vcxproj|solutionrelative:pregatireTestCoada\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestCoada\\pregatireTestCoada\\FileName.c",
+              "RelativeDocumentMoniker": "pregatireTestCoada\\FileName.c",
+              "ToolTip": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestCoada\\pregatireTestCoada\\FileName.c",
+              "RelativeToolTip": "pregatireTestCoada\\FileName.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-21T18:48:15.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
