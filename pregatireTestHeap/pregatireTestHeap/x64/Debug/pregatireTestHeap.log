@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestHeap\pregatireTestHeap\Source.c(32,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pregatireTestHeap.vcxproj -> D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestHeap\x64\Debug\pregatireTestHeap.exe

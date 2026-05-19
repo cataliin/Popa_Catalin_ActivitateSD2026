@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestABC1\pregatireTestABC1\Source.c(32,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pregatireTestABC1.vcxproj -> D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestABC1\x64\Debug\pregatireTestABC1.exe
