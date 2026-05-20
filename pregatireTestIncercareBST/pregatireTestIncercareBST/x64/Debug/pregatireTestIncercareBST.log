@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestIncercareBST\pregatireTestIncercareBST\Source.c(32,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pregatireTestIncercareBST.vcxproj -> D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestIncercareBST\x64\Debug\pregatireTestIncercareBST.exe

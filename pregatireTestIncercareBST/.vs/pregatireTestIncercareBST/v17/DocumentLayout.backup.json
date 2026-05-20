@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestIncercareBST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB4DC1B-B159-49E7-8F12-B8DD03CDABE3}|pregatireTestIncercareBST\\pregatireTestIncercareBST.vcxproj|D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestIncercareBST\\pregatireTestIncercareBST\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB4DC1B-B159-49E7-8F12-B8DD03CDABE3}|pregatireTestIncercareBST\\pregatireTestIncercareBST.vcxproj|solutionrelative:pregatireTestIncercareBST\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB4DC1B-B159-49E7-8F12-B8DD03CDABE3}|pregatireTestIncercareBST\\pregatireTestIncercareBST.vcxproj|D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestIncercareBST\\pregatireTestIncercareBST\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EB4DC1B-B159-49E7-8F12-B8DD03CDABE3}|pregatireTestIncercareBST\\pregatireTestIncercareBST.vcxproj|solutionrelative:pregatireTestIncercareBST\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "masini.txt",
+              "DocumentMoniker": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestIncercareBST\\pregatireTestIncercareBST\\masini.txt",
+              "RelativeDocumentMoniker": "pregatireTestIncercareBST\\masini.txt",
+              "ToolTip": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestIncercareBST\\pregatireTestIncercareBST\\masini.txt",
+              "RelativeToolTip": "pregatireTestIncercareBST\\masini.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-20T10:45:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestIncercareBST\\pregatireTestIncercareBST\\Source.c",
+              "RelativeDocumentMoniker": "pregatireTestIncercareBST\\Source.c",
+              "ToolTip": "D:\\facultate\\SDD github\\Popa_Catalin_ActivitateSD2026\\pregatireTestIncercareBST\\pregatireTestIncercareBST\\Source.c*",
+              "RelativeToolTip": "pregatireTestIncercareBST\\Source.c*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAArwGMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-20T10:42:12.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

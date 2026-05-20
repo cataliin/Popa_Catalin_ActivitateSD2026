@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestIncercareAVL\pregatireTestIncercareAVL\Source.c(31,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pregatireTestIncercareAVL.vcxproj -> D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\pregatireTestIncercareAVL\x64\Debug\pregatireTestIncercareAVL.exe
