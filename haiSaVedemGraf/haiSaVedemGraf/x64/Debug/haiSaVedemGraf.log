@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\haiSaVedemGraf\haiSaVedemGraf\Source.c(28,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  haiSaVedemGraf.vcxproj -> D:\facultate\SDD github\Popa_Catalin_ActivitateSD2026\haiSaVedemGraf\x64\Debug\haiSaVedemGraf.exe
